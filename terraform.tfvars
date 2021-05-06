@@ -1,0 +1,2 @@
+dockerhub_creds = "arn:aws:secretsmanager:eu-west-2:774752154143:secret:codebuild/dockerhub-LrnhcS"
+condestart_connector_creds = "arn:aws:codestar-connections:eu-west-2:774752154143:connection/b0c601f9-e189-47df-8e68-2b337de6673e"
